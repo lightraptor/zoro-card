@@ -114,5 +114,5 @@ body {
 
 .card:hover .character-img {
     opacity: 1;
-    transform: translate3d(5%, -20%, 670px);
+    transform: translate3d(1%, -25%, 670px);
 }
